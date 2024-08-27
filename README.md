@@ -1,7 +1,3 @@
-<div align="center">
-<img src="https://avatars.githubusercontent.com/u/30020876?v=1" width="200"  align="center" style="border-radius: 50%;"  />
-</div>  
-  
 
 ### <div align="center">Hello, my name is Hasbi. <br /> A full-time web developer 👨‍💻 </div>  
   
